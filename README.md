@@ -1,10 +1,6 @@
 # Hello! 👋
 👨‍💻 I'm a Junior Full Stack developer from Portugal.
 
-### Things About Me
-- 🎨 Creative
-- 😤 Determined
-- 🧠 Eager to learn
 ### Skills
 - 🖼️ **Front End Development**: HTML/CSS, ReactJS, Gatsby, Wordpress
 - 📱 **Mobile Development**: React Native, Flutter, Kotlin
