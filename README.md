@@ -4,5 +4,5 @@
 ### Skills
 - 🖼️ **Front End Development**: HTML/CSS, ReactJS, Gatsby, Wordpress
 - 📱 **Mobile Development**: React Native, Flutter, Kotlin
-- 🖥️ **Back End Development**: Java, C#, Python, SQL, GraphQL, PHP
+- 🖥️ **Back End Development**: Java, C#, Python, SQL, REST, GraphQL, PHP
 - ☁️ **Cloud**: Firebase, Azure, Google Cloud
